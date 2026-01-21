@@ -41,9 +41,13 @@ The models were evaluated using Accuracy, Precision, Recall, and F1-Score.
 
 ### Technologies Used
 Python 3
+
 Pandas & NumPy: For data manipulation.
+
 Matplotlib & Seaborn: For exploratory data visualization.
+
 Scikit-Learn: For preprocessing and Random Forest implementation.
+
 XGBoost: For the final high-performance gradient boosted model.
 
 ### How To Run
